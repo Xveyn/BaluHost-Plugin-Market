@@ -6,7 +6,7 @@
   "description": "TP-Link Tapo P110/P115 smart plug integration with power monitoring",
   "author": "BaluHost",
   "category": "smart_device",
-  "homepage": null,
+  "homepage": "https://github.com/Xveyn/BaluHost-Plugin-Market/tree/main/plugins/tapo_smart_plug",
   "min_baluhost_version": "1.29.0",
   "max_baluhost_version": null,
   "required_permissions": ["device:control", "network:outbound", "db:write"],

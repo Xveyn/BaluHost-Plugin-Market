@@ -6,7 +6,7 @@
   "description": "Read, rip, and burn CDs/DVDs with full disc management",
   "author": "BaluHost Team",
   "category": "storage",
-  "homepage": "https://github.com/baluhost/optical-drive",
+  "homepage": "https://github.com/Xveyn/BaluHost-Plugin-Market/tree/main/plugins/optical_drive",
   "min_baluhost_version": "1.29.0",
   "max_baluhost_version": null,
   "required_permissions": ["system:execute", "system:info", "file:write"],

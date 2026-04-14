@@ -6,7 +6,7 @@
   "description": "Provides storage usage analytics and insights",
   "author": "BaluHost Team",
   "category": "storage",
-  "homepage": "https://github.com/baluhost/storage-analytics",
+  "homepage": "https://github.com/Xveyn/BaluHost-Plugin-Market/tree/main/plugins/storage_analytics",
   "min_baluhost_version": "1.29.0",
   "max_baluhost_version": null,
   "required_permissions": ["file:read", "system:info"],
